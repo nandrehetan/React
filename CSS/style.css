@@ -1,0 +1,23 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: antiquewhite;
+    background-image: url("ganapati.jpeg");
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    /* background-position: top right; */
+}
+
+h1{
+    color: rebeccapurple;
+}
+.para{
+    color: rgb(114, 5, 110);
+}
+#btn{
+    background-color: rgb(55, 205, 213);
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: greenyellow;
+}
